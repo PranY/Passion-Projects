@@ -1,2 +1,2 @@
-# FastAI_projects
-This repository will contain the notebooks/code for the projects from the fast.ai forum
+# Passion Projects
+This repository will contain the notebooks/code around the experiments and research
